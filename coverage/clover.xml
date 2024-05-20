@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1716220847471" clover="3.2.0">
-  <project timestamp="1716220847472" name="All files">
+<coverage generated="1716221118277" clover="3.2.0">
+  <project timestamp="1716221118278" name="All files">
     <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3" elements="14" coveredelements="8" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
     <file name="calculadora.js" path="C:\Users\bielv\Workspace\JavaScript-Test-Pipeline-Template\arquivos-para-testar\calculadora.js">
       <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
